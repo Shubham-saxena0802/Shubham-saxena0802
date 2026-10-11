@@ -63,7 +63,7 @@ Hey! I'm Shubham, an Electrical & Computer Engineering student at **ABES Enginee
 
 - [x] Exploring web development with HTML, CSS, and JavaScript.
 - [x] Creating and maintaining projects on GitHub.
-- [ ] Strengthening C++ fundamentals and problem-solving.
+- [x] Strengthening C++ fundamentals and problem-solving.
 - [ ] Practising data structures and algorithms.
 - [ ] Building more software projects.
 - [ ] Exploring AI and machine learning fundamentals.
